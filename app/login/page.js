@@ -114,7 +114,7 @@ export default function LoginPage() {
             <div className="space-y-2">
            <label className="ml-1 text-xs font-bold tracking-widest text-slate-500">
   <span style={{ textTransform: "uppercase" }}>Password</span>
-  <span style={{ textTransform: "none" }}> (faculty=100)</span>
+  <span style={{ textTransform: "none" }}> (faculty@123)</span>
 </label>
               <div className="relative group">
                 <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-[#38bdf8] transition-colors">
