@@ -284,7 +284,7 @@ export default function LandingPage() {
                   </div>
                   <div>
                     <h4 className="text-white font-bold">Open Source</h4>
-                    <p className="text-slate-500 text-sm"><github.com/Smart-Attendance-System</p>
+                    <p className="text-slate-500 text-sm">github.com/Smart-Attendance-System</p>
                   </div>
                 </div>
               </div>
