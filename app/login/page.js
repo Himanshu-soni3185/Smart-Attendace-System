@@ -92,8 +92,8 @@ export default function LoginPage() {
 
           <form onSubmit={handleSubmit} className="space-y-6">
             <div className="space-y-2">
-              <label className="text-xs font-bold text-slate-500 uppercase tracking-widest ml-1">Username <span className="normal-case">(faculty)</span></label>
-            
+              <div><label className="text-xs font-bold text-slate-500 uppercase tracking-widest ml-1">Username </label> <span className="normal-case">(faculty)</span>
+            </div>
               <div className="relative group">
                 <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-[#38bdf8] transition-colors">
                   <User size={18} />
@@ -110,7 +110,7 @@ export default function LoginPage() {
             </div>
 
             <div className="space-y-2">
-              <label className="text-xs font-bold text-slate-500 uppercase tracking-widest ml-1">Password <span className="normal-case">(faculty=100)</span></label>
+              <div><label className="text-xs font-bold text-slate-500 uppercase tracking-widest ml-1">Password </label><span className="normal-case">(faculty=100)</span></div>
               <div className="relative group">
                 <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-[#38bdf8] transition-colors">
                   <Lock size={18} />
