@@ -266,7 +266,7 @@ export default function LandingPage() {
                   </div>
                   <div>
                     <h4 className="text-white font-bold">Development Team</h4>
-                    <p className="text-slate-500 text-sm">Himanshu, Akshit, Satwik</p>
+                    <p className="text-slate-500 text-sm">Himanshu, Danish, Devendra, Satwik</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 group">
